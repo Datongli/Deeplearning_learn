@@ -38,12 +38,12 @@ positive = 'positive'
 
 # torch.backends.cudnn.enabled = True
 # 工作目录
-work_path = r"D:\学习\大创\data\训练数据集\model"
+work_path = r"D:\学习\本科\大创\data\训练数据集\model"
 # 数据集文件夹位置
-filepath_train_val_1 = r"D:\学习\大创\data\训练数据集\data\Coswara（原始+增强）\Coswara（原始+增强）谱图\训练集\logMel"
-filepath_test_1 = r"D:\学习\大创\data\训练数据集\data\Coswara（原始+增强）\Coswara（原始+增强）谱图\测试集\logMel"
-filepath_train_val_2 = r"D:\学习\大创\data\训练数据集\data\Coswara（原始+增强）\音频\训练集"
-filepath_test_2 = r"D:\学习\大创\data\训练数据集\data\Coswara（原始+增强）\音频\测试集"
+filepath_train_val_1 = r"D:\学习\本科\大创\data\训练数据集\data\Coswara（原始+增强）\Coswara（原始+增强）谱图\训练集\logMel"
+filepath_test_1 = r"D:\学习\本科\大创\data\训练数据集\data\Coswara（原始+增强）\Coswara（原始+增强）谱图\测试集\logMel"
+filepath_train_val_2 = r"D:\学习\本科\大创\data\训练数据集\data\Coswara（原始+增强）\音频\训练集"
+filepath_test_2 = r"D:\学习\本科\大创\data\训练数据集\data\Coswara（原始+增强）\音频\测试集"
 pth_path_1 = r"C:\Users\ldt20\Desktop\训练权重保存\23.5.4后的\预训练上_logMel最好的权重ResNet18.pth"
 pth_path_2 = r"C:\Users\ldt20\Desktop\训练权重保存\23.5.4后的\预训练上_TCNN最好的权重.pth"
 
